@@ -1,0 +1,10 @@
+{
+  "conversations": [
+    {
+      "id": "v0-sample",
+      "title": "v0 Sample Session",
+      "description": "8ロールが1ターンずつ発言するサンプルログ",
+      "file": "/data/conversations/v0-sample.json"
+    }
+  ]
+}

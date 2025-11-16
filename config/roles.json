@@ -1,0 +1,82 @@
+[
+  {
+    "id": "router",
+    "displayName": "Router",
+    "roleType": "router",
+    "themeKey": "indigo",
+    "iconKey": "router",
+    "oneLiner": "課題交通整理",
+    "shortDescription": "ゴールと制約を整理し、次の一手を見つける経路設計役。",
+    "styleHint": "論理的で落ち着いたトーン"
+  },
+  {
+    "id": "coach",
+    "displayName": "Coach",
+    "roleType": "coach",
+    "themeKey": "teal",
+    "iconKey": "coach",
+    "oneLiner": "心理的安全を確保",
+    "shortDescription": "メンバーの気持ちに寄り添い、対話の流れを整えるファシリ役。",
+    "styleHint": "柔らかく前向きな言い回し"
+  },
+  {
+    "id": "editor",
+    "displayName": "Editor",
+    "roleType": "editor",
+    "themeKey": "violet",
+    "iconKey": "editor",
+    "oneLiner": "骨子を研ぎ澄ます",
+    "shortDescription": "アイデアを構造化し、伝わる文章へ磨き上げる編集役。",
+    "styleHint": "簡潔で図解的な語り口"
+  },
+  {
+    "id": "critic",
+    "displayName": "Critic",
+    "roleType": "critic",
+    "themeKey": "orange",
+    "iconKey": "critic",
+    "oneLiner": "リスクを先読み",
+    "shortDescription": "盲点やリスクを指摘し、意思決定の安全性を高める。",
+    "styleHint": "冷静で事実ベース"
+  },
+  {
+    "id": "visionary",
+    "displayName": "Visionary",
+    "roleType": "visionary",
+    "themeKey": "rose",
+    "iconKey": "visionary",
+    "oneLiner": "未来像を描く",
+    "shortDescription": "制約を外して理想像を示し、チームの士気を上げる。",
+    "styleHint": "比喩を交えたインスピレーション"
+  },
+  {
+    "id": "researcher",
+    "displayName": "Researcher",
+    "roleType": "researcher",
+    "themeKey": "cyan",
+    "iconKey": "researcher",
+    "oneLiner": "根拠を掘り出す",
+    "shortDescription": "リサーチ観点から事例とデータを集め、議論を支える。",
+    "styleHint": "エビデンス重視の筆致"
+  },
+  {
+    "id": "executor",
+    "displayName": "Executor",
+    "roleType": "executor",
+    "themeKey": "emerald",
+    "iconKey": "executor",
+    "oneLiner": "即動ける計画",
+    "shortDescription": "実行プランとタスク分解を担う現場指揮役。",
+    "styleHint": "タイトで具体的"
+  },
+  {
+    "id": "optimizer",
+    "displayName": "Optimizer",
+    "roleType": "optimizer",
+    "themeKey": "amber",
+    "iconKey": "optimizer",
+    "oneLiner": "継続改善",
+    "shortDescription": "KPI とフィードバックループを設計し、継続改善を回す。",
+    "styleHint": "数値駆動で端的"
+  }
+]
