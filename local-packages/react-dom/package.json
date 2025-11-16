@@ -1,0 +1,12 @@
+{
+  "name": "react-dom",
+  "version": "0.0.0-local",
+  "type": "module",
+  "main": "./client.js",
+  "exports": {
+    "./client": {
+      "import": "./client.js",
+      "types": "./client.d.ts"
+    }
+  }
+}

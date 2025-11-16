@@ -1,0 +1,63 @@
+{
+  "id": "v0-sample",
+  "title": "新規プロダクトのローンチ計画",
+  "description": "各ロールが1メッセージずつ提案する初期シナリオ",
+  "messages": [
+    {
+      "id": "msg-router-001",
+      "roleId": "router",
+      "content": "まずターゲットは既存顧客の 20% を巻き込むパイロットに絞ります。成功指標は 4 週間での継続利用率 60% です。",
+      "createdAt": "2024-11-01T09:00:00Z",
+      "meta": { "category": "context", "tags": ["goal", "scope"] }
+    },
+    {
+      "id": "msg-coach-001",
+      "roleId": "coach",
+      "content": "チームの不安として『完成度不足』が挙がっています。パイロットで学びを得ることを強調して安心材料を用意しましょう。",
+      "createdAt": "2024-11-01T09:01:00Z",
+      "meta": { "category": "team", "tags": ["morale"] }
+    },
+    {
+      "id": "msg-editor-001",
+      "roleId": "editor",
+      "content": "提案書の骨子は 1) 課題背景、2) 解決コンセプト、3) 実験デザイン、4) 期待インパクト の 4 枠で整理します。",
+      "createdAt": "2024-11-01T09:02:00Z",
+      "meta": { "category": "structure" }
+    },
+    {
+      "id": "msg-critic-001",
+      "roleId": "critic",
+      "content": "リスクはサポート体制不足とデータ収集遅延。どちらもパイロット期間中に早期検知できるチェックポイントを設けるべきです。",
+      "createdAt": "2024-11-01T09:03:00Z",
+      "meta": { "category": "risk", "tags": ["support", "data"] }
+    },
+    {
+      "id": "msg-visionary-001",
+      "roleId": "visionary",
+      "content": "この施策が定着すると、既存顧客がコミュニティ経由で新規を呼び込む循環が生まれます。『共創ダッシュボード』を象徴アイコンにしましょう。",
+      "createdAt": "2024-11-01T09:04:00Z",
+      "meta": { "category": "future", "tags": ["brand"] }
+    },
+    {
+      "id": "msg-researcher-001",
+      "roleId": "researcher",
+      "content": "近しい B2B プロダクトのパイロットでは、オンボーディング動画を 3 本に絞ることで完走率が 18pt 伸びています。ベンチマークとして紹介します。",
+      "createdAt": "2024-11-01T09:05:00Z",
+      "meta": { "category": "insight", "tags": ["benchmark"] }
+    },
+    {
+      "id": "msg-executor-001",
+      "roleId": "executor",
+      "content": "Kickoff → Setup → Weekly Sync → Retro の 4 スプリントで区切り、各スプリント終わりに KPI を共有。責任者は PM、CS、データの 3 名です。",
+      "createdAt": "2024-11-01T09:06:00Z",
+      "meta": { "category": "plan", "tags": ["schedule"] }
+    },
+    {
+      "id": "msg-optimizer-001",
+      "roleId": "optimizer",
+      "content": "継続改善の指標は『アクティブ組織数』と『導入部署数』。週次レポートで仮説メモを 2 行添えて学習を蓄積します。",
+      "createdAt": "2024-11-01T09:07:00Z",
+      "meta": { "category": "kpi" }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ES2022",
+    "moduleResolution": "node",
+    "lib": ["DOM", "DOM.Iterable", "ES2022"],
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "jsx": "react-jsx",
+    "jsxImportSource": "react",
+    "rootDir": "src",
+    "outDir": "build/assets",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["src"]
+}
